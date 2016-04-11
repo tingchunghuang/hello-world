@@ -1,2 +1,4 @@
 # hello-world
-Just another repo
+Just a test for github utility
+
+I love C/C++, Python and Mathematica.
